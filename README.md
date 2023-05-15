@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noriel Lacsina</h1>
-<h3 align="center">A developer wannabe</h3>
+<h3 align="center">Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toperrrrrrrrr&label=Profile%20views&color=0e75b6&style=flat" alt="toperrrrrrrrr" /> </p>
 

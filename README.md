@@ -1,8 +1,8 @@
 
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Noriel Lacsina</h1>
-<h3 align="center">Creating More.</h3>
-<h3 align="center">Creating for fun.</h3>
+<h3 align="center">Create More, Create for Fun</h3>
+
 <picture><img src = "https://github.com/toperrrrrrrr/toperrrrrrrr/blob/main/about_me.gif" width = 50px></picture>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toperrrrrrrrr&label=Profile%20views&color=0e75b6&style=flat" alt="toperrrrrrrrr" /> </p>
 

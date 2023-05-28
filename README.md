@@ -6,6 +6,8 @@
 <picture><img src = "https://github.com/toperrrrrrrr/toperrrrrrrr/blob/main/about_me.gif" width = 50px></picture>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toperrrrrrrrr&label=Profile%20views&color=0e75b6&style=flat" alt="toperrrrrrrrr" /> </p>
 
+
+- Currently working on **100daysOfReact**
 - 📫 How to reach me **lacsinankc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

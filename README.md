@@ -8,6 +8,7 @@
 
 
 - Currently working on **100daysOfCode**
+- Making my progress public, even the failed ones. 
 - Studying Python...
 - 📫 How to reach me **lacsinankc@gmail.com**
 

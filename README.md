@@ -8,7 +8,6 @@
 
 
 - Currently working on **100daysOfCode**
-- Making my progress public, even the failed ones. 
 - Studying React...
 - 📫 How to reach me **lacsinankc@gmail.com**
 

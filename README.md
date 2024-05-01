@@ -6,8 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toperrrrrrrrr&label=Profile%20views&color=0e75b6&style=flat" alt="toperrrrrrrrr" /> </p>
 
 
-- Currently working on **100daysOfCode**
-- Studying React...
+- Currently working on some projects.
+- Studying till the end of time 
 - 📫 How to reach me **lacsinankc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

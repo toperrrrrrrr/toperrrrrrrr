@@ -22,7 +22,6 @@
 ```javascript
 const Nori = {
   code: [SQL, HTML, CSS, Kotlin, Javascript],
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 

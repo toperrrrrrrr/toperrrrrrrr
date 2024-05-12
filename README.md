@@ -7,7 +7,7 @@
 
 
 - Currently working on some projects.
-- Studying till the end of time 
+- Will be studying till the end of time 
 - 📫 How to reach me **lacsinankc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

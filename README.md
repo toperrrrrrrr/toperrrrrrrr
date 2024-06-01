@@ -7,6 +7,7 @@
 
 
 - Currently working on some projects.
+- Never a master. Always a student.
 - I write codes not Tradgedies.
 - 📫 How to reach me **lacsinankc@gmail.com**
 

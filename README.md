@@ -5,10 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toperrrrrrrrr&label=Profile%20views&color=0e75b6&style=flat" alt="toperrrrrrrrr" /> </p>
 
-
-- Currently working on some projects.
 - Never a master. Always a student.
-- I write codes not Tradgedies.
 - 📫 How to reach me **lacsinankc@gmail.com**
 
 <p align="left">
